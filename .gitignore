@@ -6,6 +6,7 @@ __pycache__/
 *.params
 # C extensions
 *.so
+*.txt
 
 # Distribution / packaging
 .Python

@@ -26,4 +26,5 @@
 | Dot attention | 0.079 |
 | MLP attention | 0.072 |
 | Concat attention | |
-| Linguistic coverage |
+| Linguistic coverage | |
+| Fertility coverage | |
