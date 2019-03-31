@@ -17,14 +17,14 @@
 ![image](./images/effective_approaches.png)
 * coverage: [Modeling Coverage for Neural Machine Translation](http://www.aclweb.org/anthology/P16-1008)
 
-## Results obtained on the dataset (english -> tamil):
+## Results obtained on the sample dataset (english -> tamil):
 
-| Model (Seq2Seq) | Score |
+| Model (Seq2Seq) | Bleu-Score |
 | -----------------------------------|------------|
+| Linguistic coverage | 0.089 |
 | General attention | 0.087 |
+| Fertility coverage | 0.0829 |
 | Vanilla | 0.082 |
+| Concat attention | 0.0814 |
 | Dot attention | 0.079 |
 | MLP attention | 0.072 |
-| Concat attention | |
-| Linguistic coverage | |
-| Fertility coverage | |
